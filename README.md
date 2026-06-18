@@ -1,3 +1,26 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+PlanPick_제출/
+│
+├── 📄 README.md                    ← 첫 페이지. 이거 하나로 프로젝트 파악
+│
+├── 📁 01_발표자료/
+│   ├── PlanPick_최종발표.pdf       ← 메인 발표 자료
+│   ├── PlanPick_최종발표.pptx      ← 수정 가능 버전
+│   └── PlanPick_발표대본.md        ← 발표자 노트 / 대본
+│
+├── 📁 02_기술문서/
+│   ├── SDS_소프트웨어설계명세서.pdf
+│   ├── 아키텍처_다이어그램.pdf
+│   ├── ERD_데이터베이스설계.pdf
+│   └── API_명세서.pdf
+│
+├── 📁 03_기획서/
+│   └── 기획서_수정본_v2.pdf
+│
+├── 📁 04_시연/
+│   ├── 시연_가이드.md              ← (있으면) 시연 시나리오 정리본
+│   ├── 시연_영상.mp4               ← (옵션) 사이트 데모 녹화
+│   └── 스크린샷/                   ← 주요 화면 캡처
+│
+└── 📁 05_소스코드/
+    ├── GitHub_저장소_URL.txt       ← Lovable repo 링크
+    └── (옵션) planpick_source.zip   ← 코드 ZIP 백업
